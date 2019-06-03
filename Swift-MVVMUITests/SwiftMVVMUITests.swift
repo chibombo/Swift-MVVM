@@ -8,7 +8,7 @@
 
 import XCTest
 
-class Swift_MVVMUITests: XCTestCase {
+class SwiftMVVMUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
